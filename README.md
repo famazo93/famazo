@@ -13,4 +13,4 @@
 - Git/GitHub
 
 ## Some projects I'm working on:
-- [ToDo app](www.github.com/famazo93/todoapp): React, Express.js
+- [ToDo app](../famazo93/todoapp): React, Express.js
