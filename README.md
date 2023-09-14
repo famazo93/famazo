@@ -1,15 +1,15 @@
-# Hi There
+# Hi There 👋
 
 ## My Tech Stack
-### Front-End
+### Front-End 🖼️
 - HTML / CSS / vanilla JS
 - React, Bootstrap, Sass
 
-### Back-End
+### Back-End 🛠️
 - NodeJS, Express.js
 - REST APIs, HTTP methods
 
-### Other
+### Other ➕
 - Git/GitHub
 
 ## Some projects I'm working on:
