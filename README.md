@@ -6,8 +6,11 @@
 - React, Bootstrap, Sass
 
 ### Back-End 🛠️
-- NodeJS, Express.js
+- Node.js, Express.js
 - REST APIs, HTTP methods
+
+### Databases 🗄️
+- MongoDB, MongooseJS
 
 ### Other ➕
 - Git/GitHub
