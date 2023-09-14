@@ -16,4 +16,4 @@
 - [ToDo app](https://github.com/famazo93/todo_app): React, Express.js
 
 ### Other code I'm proud of:
-- [Codewars solution: Snail](https://github.com/famazo93/codewars-snail)
+- Codewars solution: [Snail](https://github.com/famazo93/codewars_snail)
