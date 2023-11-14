@@ -7,6 +7,7 @@
 
 ### Back-End 🛠️
 - Node.js, Express.js
+- .NET C#
 - REST APIs, HTTP methods
 
 ### Databases 🗄️
@@ -14,6 +15,7 @@
 
 ### Other ➕
 - Git/GitHub
+- NUnit, Moq
 
 ## Some projects I'm working on:
 - [ToDo app](https://github.com/famazo93/todo_app): React, Express.js, MongoDB, Mongoose.js - deployed at https://famazo-todo.adaptable.app/
