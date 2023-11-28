@@ -8,6 +8,7 @@
 ### Back-End 🛠️
 - Node.js, Express.js
 - .NET C#
+- Java & Maven 
 - REST APIs, HTTP methods
 
 ### Databases 🗄️
